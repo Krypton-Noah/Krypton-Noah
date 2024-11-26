@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="">Noé Rodriguez</a> 👋</h1>
 </div>
 <p>
-<img src="https://i.imgur.com/Z2EPtIo.jpeg">
+<img src="https://i.imgur.com/grWThYs.jpeg">
 </p>
   
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodriguez.flor.alannoe@gmail.com)](mailto:rodriguez.flor.alannoe@gmail.com)  
