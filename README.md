@@ -19,8 +19,9 @@
   </p>
 
 ## <h1>Sobre mi:</h1> 
-- Roles: Desarrollador web full-stack, líder de proyecto, etc.
-- Tecnologías: HTML5, CSS3, JavaScript,Firebase, SQL, etc.
-- Metodologías: Kanban, XP(Extreme Programing), Scrum, etc.
+- Roles: Desarrollador en: Modelos de Inteligencia Artificial, Aplicaciones web y android, líder de proyectos.
+- Tecnologías: Python, Java, HTML5, CSS3, JavaScript, Firebase, SQL, etc.
+- Metodologías: Scrum, XP(Extreme Programing), Kanban.
 - Ciberseguridad: Experiencia con cifrados Hash, Ice y DES.
-- Redes: Experiencia en modelo OSI, especificamente capa 3 y 7, manejo de switches
+- Redes: Experiencia en modelo OSI, especificamente capa 3 y 7.
+- Manejo Basico de CPT (Cisco Packet Tracer).
